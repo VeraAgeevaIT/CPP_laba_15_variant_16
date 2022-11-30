@@ -1,0 +1,1 @@
+# CPP_laba_15_variant_16
